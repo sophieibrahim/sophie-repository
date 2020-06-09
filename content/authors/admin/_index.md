@@ -42,6 +42,11 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/stillsoph.jpg/?hl=en
+  
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:sibrahim1498@gmail.com".
@@ -50,13 +55,9 @@ social:
   icon_pack: fab
   link: https://github.com/sophieibrahim
   
-- icon: linkdein
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sophieibrahim/
-  
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/stillsoph.jpg/?hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
