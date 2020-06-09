@@ -18,7 +18,7 @@ organizations:
   url: "https://www.linkedin.com/in/sophieibrahim/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hi
 
 interests:
 - Software Enginnering
