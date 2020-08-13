@@ -47,6 +47,10 @@ social:
   icon_pack: fab
   link: https://www.instagram.com/stillsoph.jpg/?hl=en
   
+- icon: rebel
+  icon_pack: fab
+  link: https://www.redbubble.com/people/fatallysophie/shop?asc=u&ref=account-nav-dropdown
+  
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:sibrahim1498@gmail.com".
@@ -58,10 +62,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sophieibrahim/
-  
- - icon: rebel
-  icon_pack: fab
-  link: https://www.redbubble.com/people/fatallysophie/shop?ref=account-nav-dropdown
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
