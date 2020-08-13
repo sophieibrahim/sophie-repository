@@ -1,13 +1,13 @@
 # Page Sharer
 # Documentation: https://sourcethemes.com/academic/docs/customization/#page-sharer
 
-#[[buttons]]
-#  id = "redbubble"
-#  url = "https://www.redbubble.com/people/fatallysophie/shop?asc=u&ref=account-nav-dropdown"
-#  title = "RedBubble"
-#  icon_pack = "fab"
-#  icon = "twitter"
-#  enable = true
+[[buttons]]
+  id = "redbubble"
+  url = "https://www.redbubble.com/people/fatallysophie/shop?asc=u&ref=account-nav-dropdown"
+  title = "RedBubble"
+  icon_pack = "fab"
+  icon = "rebel"
+  enable = true
   
 [[buttons]]
   id = "twitter"
