@@ -47,10 +47,6 @@ social:
   icon_pack: fab
   link: https://www.instagram.com/stillsoph.jpg/?hl=en
   
- - icon: rebel
-  icon_pack: fab
-  link: https://www.redbubble.com/people/fatallysophie/shop?asc=u&ref=account-nav-dropdown
-  
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:sibrahim1498@gmail.com".
@@ -63,8 +59,8 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/sophieibrahim/
   
-# - icon: palette
-#  icon_pack: far
+# - icon: rebel
+#  icon_pack: fab
 #  link: https://www.redbubble.com/people/fatallysophie/shop?ref=account-nav-dropdown
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -83,4 +79,4 @@ user_groups:
 # - Visitors
 ---
 
-Please hire me.
+Sophie Ibrahim is a hard working and commited student looking for an internship/research opportunity to further her knowledge of technology and working with a team.
