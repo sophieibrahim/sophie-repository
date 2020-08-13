@@ -43,13 +43,13 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 
+- icon:
+  icon_pack: fab
+  link: https://www.redbubble.com/people/fatallysophie/shop?asc=u&ref=account-nav-dropdown
+
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/stillsoph.jpg/?hl=en
-  
-- icon: rebel
-  icon_pack: fab
-  link: https://www.redbubble.com/people/fatallysophie/shop?asc=u&ref=account-nav-dropdown
   
 - icon: envelope
   icon_pack: fas
