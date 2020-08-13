@@ -58,6 +58,11 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sophieibrahim/
+  
+ - icon: pallet
+  icon_pack: fas
+  link: https://www.redbubble.com/people/fatallysophie/shop?ref=account-nav-dropdown
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
