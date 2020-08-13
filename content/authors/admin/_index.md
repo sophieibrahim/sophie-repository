@@ -60,7 +60,7 @@ social:
   link: https://www.linkedin.com/in/sophieibrahim/
   
  - icon: palette
-  icon_pack: fas
+  icon_pack: far
   link: https://www.redbubble.com/people/fatallysophie/shop?ref=account-nav-dropdown
   
 # Link to a PDF of your resume/CV from the About widget.
