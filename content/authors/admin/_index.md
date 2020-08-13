@@ -59,7 +59,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/sophieibrahim/
   
- - icon: pallet
+ - icon: palette
   icon_pack: fas
   link: https://www.redbubble.com/people/fatallysophie/shop?ref=account-nav-dropdown
   
