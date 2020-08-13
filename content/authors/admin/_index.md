@@ -43,7 +43,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 
-- icon:
+- icon: rebel
   icon_pack: fab
   link: https://www.redbubble.com/people/fatallysophie/shop?asc=u&ref=account-nav-dropdown
 
