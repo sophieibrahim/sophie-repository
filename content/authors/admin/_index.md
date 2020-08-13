@@ -47,6 +47,10 @@ social:
   icon_pack: fab
   link: https://www.instagram.com/stillsoph.jpg/?hl=en
   
+ - icon: rebel
+  icon_pack: fab
+  link: https://www.redbubble.com/people/fatallysophie/shop?asc=u&ref=account-nav-dropdown
+  
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:sibrahim1498@gmail.com".
