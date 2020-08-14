@@ -24,6 +24,7 @@ interests:
 - Artificial Intelligence
 - Robotics
 - Data Analysis
+- Software Engineering
 
 education:
   courses:
@@ -79,4 +80,4 @@ user_groups:
 # - Visitors
 ---
 
-Sophie Ibrahim is a hard working and commited student looking for an internship/research opportunity to further her knowledge of technology and working with a team.
+Sophie Ibrahim is a hard working and commited student looking for an internship/research opportunity to further her knowledge of technology. She is passionate about STEM outreach and getting the next generation of students involved and excited about the world around them. 
