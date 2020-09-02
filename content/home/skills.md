@@ -15,8 +15,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "apple"
-  icon_pack = "fab"
+  icon = "swift"
+  icon_pack = "custom"
   name = "Swift"
   description = "80%"
   
